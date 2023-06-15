@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+  }
+  
+  .converter {
+    max-width: 400px;
+    margin: 20px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  label, select, input, button {
+    display: block;
+    margin-bottom: 10px;
+  }
+  
+  button {
+    width: 100%;
+  }
+  
+  #result {
+    font-weight: bold;
+    margin-top: 10px;
+  }
+  
